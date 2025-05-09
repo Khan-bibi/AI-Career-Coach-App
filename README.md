@@ -27,7 +27,7 @@ AI Career Coach is a web-based platform that leverages Artificial Intelligence t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AI-Career-Coach.git
+git clone https://github.com/Khan-bibi/AI-Career-Coach.git
 cd AI-Career-Coach
 
 # Install dependencies
